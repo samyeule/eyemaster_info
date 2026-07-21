@@ -11,7 +11,7 @@ If you have questions regarding moderation records, privacy, or data requests, p
 ---
 >### *The support server is only for privacy, data, and policy-related requests. Server moderation disputes or appeals are not handled through this system.*{: .text-red-300 }
 
->### *We reserve the right to to limit or deny support access for spam, harassment, abuse of the ticket system, or repeated irrelevant requests.*{: .text-red-300 }
+>### *We reserve the right to limit or deny support access for spam, harassment, abuse of the ticket system, or repeated irrelevant requests.*{: .text-red-300 }
 
 >### *Where required, reasonable access for legitimate privacy or data-related requests may still be provided.*{: .text-red-300 }
 
