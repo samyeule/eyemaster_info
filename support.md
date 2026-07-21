@@ -6,23 +6,23 @@ nav_order: 3
 ---
 
 # Support
-If you have questions regarding moderation records, privacy, or data requests, please join the Eyemaster support server below and open a ticket.
+If you have questions regarding moderation records, privacy, data requests, Eyemaster's policies, or technical issues, please join the Eyemaster support server below and open a ticket.
 
 ---
->### *The support server is only for privacy, data, and policy-related requests. Server moderation disputes or appeals are not handled through this system.*{: .text-red-300 }
+> ### *The support server is only for privacy, data, policy, and Eyemaster technical-support requests. Server moderation disputes or appeals are not handled through this system.*{: .text-red-300 }
 
->### *We reserve the right to limit or deny support access for spam, harassment, abuse of the ticket system, or repeated irrelevant requests.*{: .text-red-300 }
+> ### *We reserve the right to close or limit tickets involving spam, harassment, abuse of the ticket system, or repeated irrelevant requests.*{: .text-red-300 }
 
->### *Where required, reasonable access for legitimate privacy or data-related requests may still be provided.*{: .text-red-300 }
+> ### *Restrictions on general support will not prevent legitimate privacy or data requests from being handled through the ticket system.*{: .text-red-300 }
 
 ---
 
 ## How to Open a Ticket
-1. **Join the support server**: Join the support server by clicking the invite link below.
+1. **Join the support server**: Use the invite link below.
 2. **Select your category**: In the #requests channel, use the dropdown menu to select the category that best fits your request.
 
 ## Ticket Categories
-When creating your ticket, you will have one of four categories to choose from:
+When creating a ticket, you can choose from four categories:
 
 * ### Data Access Request
     Request a copy of all of your data currently stored by Eyemaster.
